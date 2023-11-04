@@ -1,0 +1,17 @@
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\bin\Debug\net7.0-windows\indiv_1.exe
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\bin\Debug\net7.0-windows\indiv_1.deps.json
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\bin\Debug\net7.0-windows\indiv_1.runtimeconfig.json
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\bin\Debug\net7.0-windows\indiv_1.dll
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\bin\Debug\net7.0-windows\indiv_1.pdb
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\obj\Debug\net7.0-windows\indiv_1.csproj.AssemblyReference.cache
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\obj\Debug\net7.0-windows\indiv_1.Form1.resources
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\obj\Debug\net7.0-windows\indiv_1.csproj.GenerateResource.cache
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\obj\Debug\net7.0-windows\indiv_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\obj\Debug\net7.0-windows\indiv_1.AssemblyInfoInputs.cache
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\obj\Debug\net7.0-windows\indiv_1.AssemblyInfo.cs
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\obj\Debug\net7.0-windows\indiv_1.csproj.CoreCompileInputs.cache
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\obj\Debug\net7.0-windows\indiv_1.dll
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\obj\Debug\net7.0-windows\refint\indiv_1.dll
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\obj\Debug\net7.0-windows\indiv_1.pdb
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\obj\Debug\net7.0-windows\indiv_1.genruntimeconfig.cache
+C:\Users\Сюзанна\OneDrive - Южный Федеральный Университет\Рабочий стол\indiv_1\obj\Debug\net7.0-windows\ref\indiv_1.dll
