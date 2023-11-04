@@ -30,22 +30,34 @@
         {
             button1 = new Button();
             fontDialog1 = new FontDialog();
+            fontDialog2 = new FontDialog();
+            listBox1 = new ListBox();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(683, 81);
+            button1.Location = new Point(617, 110);
             button1.Name = "button1";
-            button1.Size = new Size(94, 29);
+            button1.Size = new Size(155, 29);
             button1.TabIndex = 0;
-            button1.Text = "button1";
+            button1.Text = "Добавить вершину";
             button1.UseVisualStyleBackColor = true;
+            // 
+            // listBox1
+            // 
+            listBox1.FormattingEnabled = true;
+            listBox1.ItemHeight = 20;
+            listBox1.Location = new Point(617, 34);
+            listBox1.Name = "listBox1";
+            listBox1.Size = new Size(155, 44);
+            listBox1.TabIndex = 1;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(listBox1);
             Controls.Add(button1);
             Name = "Form1";
             Text = "Form1";
@@ -57,5 +69,7 @@
 
         private Button button1;
         private FontDialog fontDialog1;
+        private FontDialog fontDialog2;
+        private ListBox listBox1;
     }
 }
